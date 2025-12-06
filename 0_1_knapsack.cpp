@@ -1,5 +1,5 @@
 /**
-* Author: Imtiaz Adar
+* Author: Imtiaz Adar 1
 */
 #include<bits/stdc++.h>
 using namespace std;
@@ -51,3 +51,4 @@ int32_t main(){
     cout << "Highest value: " << highestVal << endl;
     return 0;
 }
+
